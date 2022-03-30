@@ -3,7 +3,7 @@
 ```html
 <form be-enabling="button">
     <input required>
-    <button>Save</button>
+    <button disabled>Save</button>
 </form>
 ```
 
